@@ -42,7 +42,7 @@ class Solution {
                 int nx = x;
                 int ny = y;
                 
-                // 끝까지
+                // 끝까지 
                 while (true) {
                     int nnx = nx + dx[i];
                     int nny = ny + dy[i];
